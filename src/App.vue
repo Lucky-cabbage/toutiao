@@ -1,7 +1,7 @@
 <template>
   <div>
     vue
-    <router-view></router-view>
+    <router-view>111111111</router-view>
   </div>
 </template>
 
